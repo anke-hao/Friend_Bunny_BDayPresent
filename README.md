@@ -28,7 +28,7 @@ The game was built in Unity2D, with the use of C# scripts for the following:
 - handling detection and carrying of care items by the player (TreeCare)
 
 ## Visual Assets
-All the visual assets, including the playable character and all the environmental assets, were sourced from [Cup Nooble's](https://cupnooble.itch.io/) [Sprout Lands Pixel Art Assets Pack](https://cupnooble.itch.io/sprout-lands-asset-pack), which is licensed for personal and commercial use.
+All the visual assets, including the playable character and all the environmental assets, were sourced from [Cup Nooble's](https://cupnooble.itch.io/) [Sprout Lands Pixel Art Assets Pack](https://cupnooble.itch.io/sprout-lands-asset-pack), which is licensed for non-commercial use.
   
 ## Future Additions/Bugfixes
 ### Additions/Revisions
