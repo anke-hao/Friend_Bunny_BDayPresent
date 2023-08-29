@@ -27,7 +27,7 @@ The game was built in Unity2D, with the use of C# scripts for the following:
 - handling the Tree of Friendship's growth stages (TreeGrowth)
 - handling detection and carrying of care items by the player (TreeCare)
 
-## Visual Assets
+## Visual and Audio Assets
 - All the visual assets, including the playable character and all the environmental assets, were sourced from [Cup Nooble's](https://cupnooble.itch.io/) [Sprout Lands Pixel Art Assets Pack](https://cupnooble.itch.io/sprout-lands-asset-pack), which is licensed for non-commercial use.
 - The background music was sourced from [TallBeard Studios's](https://tallbeard.itch.io/) [Music Loop Bundle](https://tallbeard.itch.io/music-loop-bundle).
 - The sound effects were sourced from [Dustyroom's](https://assetstore.unity.com/publishers/16150) [Casual Game SFX Pack](https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116#content) and [Nox_Sound's](https://assetstore.unity.com/publishers/52638)[Footsteps - Essentials](https://assetstore.unity.com/packages/audio/sound-fx/foley/footsteps-essentials-189879#content).
