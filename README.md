@@ -1,11 +1,12 @@
 # Tree of Friendship (Friend Birthday Present Series)
+<img align="left" src="https://github.com/anke-hao/Friend_Bunny_BDayPresent/blob/main/Screenshots/In-game%20Screenshot%207.png" style="height: 200px;">
 
 ## Introduction
 
 
 Welcome to the gamified interactive experience I made for my friend's birthday! In this experience, you play as a character in a 2D scene who navigates the environment to collect "care items," which are events or acts of friendship my friend and I experienced together, and bring them to the Tree of Friendship to make it grow.
 
-<img align="right" src="https://github.com/anke-hao/Friend_Bunny_BDayPresent/blob/main/Screenshots/In-game%20Screenshot%202.png" style="height: 250px;">
+<br />
 
 ## How To Play
 ### Basic Commands
