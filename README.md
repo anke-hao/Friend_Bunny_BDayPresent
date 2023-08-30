@@ -8,8 +8,6 @@ Welcome to [Tree of Friendship](https://ankehao.itch.io/tree-of-friendship), the
 
 The Friend Birthday Present Series is a series of short games I built, each over the course of 3-4 days, as birthday gifts for friends who were living in separate locations from me at the time of their birthday.
 
-<br />
-
 ## How To Play
 ### Basic Commands
 - Navigate with WASD. Once at a care item, dialogue will play automatically.
