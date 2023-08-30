@@ -6,6 +6,8 @@
 
 Welcome to the gamified interactive experience I made for my friend's birthday! In this experience, you play as a character in a 2D scene who navigates the environment to collect "care items," which are events or acts of friendship my friend and I experienced together, and bring them to the Tree of Friendship to make it grow.
 
+The Friend Birthday Present Series is a series of short games I built, each over the course of 3-4 days, as birthday gifts for friends who were living in separate locations from me at the time of their birthday.
+
 <br />
 
 ## How To Play
