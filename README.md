@@ -50,5 +50,5 @@ The game was built in Unity2D, with the use of C# scripts for the following:
 - A proper start/ending screen with the option to begin or replay the experience.
 
 ### Bugfixes
-- TBD
+- If the player doesn't click to advance through the dialogue, the dialogue box on-screen will become stuck on whichever dialogue was first displayed (depending on which care item the player picked up first).
 
