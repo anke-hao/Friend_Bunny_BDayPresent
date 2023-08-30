@@ -1,5 +1,5 @@
 # Tree of Friendship (Friend Birthday Present Series)
-<img align="left" src="https://github.com/anke-hao/Friend_Bunny_BDayPresent/blob/main/Screenshots/In-game%20Screenshot%207.png" style="height: 200px;">
+<img align="left" src="https://github.com/anke-hao/Friend_Bunny_BDayPresent/blob/main/Screenshots/In-game%20Screenshot%207.png" style="height: 250px;">
 
 ## Introduction
 
