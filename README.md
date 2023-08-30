@@ -1,11 +1,12 @@
 # Tree of Friendship (Friend Birthday Present Series)
+<img align="left" src="https://github.com/anke-hao/Friend_Bunny_BDayPresent/blob/main/Screenshots/In-game%20Screenshot%207.png" style="height: 250px;">
 
 ## Introduction
 
 
-Welcome to the gamified interactive experience I made for my friend's birthday! In this experience, you play as a character in a 2D scene who navigates the environment to collect "care items," which are events or acts of friendship my friend and I experienced together, and bring them to the Tree of Friendship to make it grow.
+Welcome to [Tree of Friendship](https://ankehao.itch.io/tree-of-friendship), the gamified interactive experience I made for my friend's birthday! In this experience, you play as a character in a 2D scene who navigates the environment to collect "care items," which are events or acts of friendship my friend and I experienced together, and bring them to the Tree of Friendship to make it grow.
 
-<img align="right" src="https://github.com/anke-hao/Friend_Bunny_BDayPresent/blob/main/Screenshots/In-game%20Screenshot%202.png" style="height: 250px;">
+The Friend Birthday Present Series is a series of short games I built, each over the course of 3-4 days, as birthday gifts for friends who were living in separate locations from me at the time of their birthday.
 
 ## How To Play
 ### Basic Commands
@@ -49,5 +50,5 @@ The game was built in Unity2D, with the use of C# scripts for the following:
 - A proper start/ending screen with the option to begin or replay the experience.
 
 ### Bugfixes
-- TBD
+- If the player doesn't click to advance through the dialogue, the dialogue box on-screen will become stuck on whichever dialogue was first displayed (depending on which care item the player picked up first).
 
